@@ -6,8 +6,8 @@
 </div>
 
 <p>
-- 👋 Hi, I’m @Infinityoned15
-- 👀 Gosto de aprender sobre astronomia, escrita e matemática
-- 🌱 Tenho um blog, o panorama click
-- 💞️ Amo ler
+- 👋 Hi, I’m @Infinityoned15<br>
+- 👀 Gosto de aprender sobre astronomia, escrita e matemática<br>
+- 🌱 Tenho um blog, o panorama click<br>
+- 💞️ Amo ler<br>
 </p>
