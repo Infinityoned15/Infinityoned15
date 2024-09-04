@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @Infinityoned15
-- 👀 Gosto de aprender sobre astronomia, escrita e matemática
-- 🌱 Tenho um blog, o panorama click
-- 💞️ Amo ler
-
 <div>
   <a href="https://github.com/Infinityoned15">
     <img height=160em flexbox="flex-start" src="https://github-readme-stats.vercel.app/api?username=infinityoned15&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
@@ -10,7 +5,9 @@
   </a>
 </div>
 
-<!---
-Infinityoned15/Infinityoned15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>
+- 👋 Hi, I’m @Infinityoned15
+- 👀 Gosto de aprender sobre astronomia, escrita e matemática
+- 🌱 Tenho um blog, o panorama click
+- 💞️ Amo ler
+</h2>
