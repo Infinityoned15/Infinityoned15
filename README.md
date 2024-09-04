@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/Infinityoned15">
     <img height=160em align="center" src="https://github-readme-stats.vercel.app/api?username=infinityoned15&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img height=160em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=infinityoned15&layout=compact&langs_count=4&card_width=50&theme=dark" />
+    <img height=160em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=infinityoned15&layout=compact&langs_count=16&theme=dark" />
   </a>
 </div>
 
