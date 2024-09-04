@@ -5,9 +5,9 @@
   </a>
 </div>
 
-<h2>
+<p>
 - 👋 Hi, I’m @Infinityoned15
 - 👀 Gosto de aprender sobre astronomia, escrita e matemática
 - 🌱 Tenho um blog, o panorama click
 - 💞️ Amo ler
-</h2>
+</p>
