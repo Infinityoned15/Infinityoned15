@@ -5,7 +5,7 @@
 
 <div>
   <a href="https://github.com/Infinityoned15">
-    <img height=150em flexbox="flex-start" src="https://github-readme-stats.vercel.app/api?username=infinityoned15&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img height=180em flexbox="flex-start" src="https://github-readme-stats.vercel.app/api?username=infinityoned15&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
     <img height=150em flexbox="flex-start" src="https://github-readme-stats.vercel.app/api/top-langs?username=infinityoned15&layout=compact&langs_count=4&card_width=190&theme=dark" />
   </a>
 </div>
